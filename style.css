@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(212, 231, 192);
+}
+img{
+   border-radius:10px;
+   border-width:5px; 
+}
+tr{
+    border-color: darkorange;
+    
+}
+textarea{
+    border-color: rgb(137, 211, 0);
+    
+}
+input{
+    border-color:rgb(216, 135, 135) ;
+}
+
+
